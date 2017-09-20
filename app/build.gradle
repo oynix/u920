@@ -1,10 +1,10 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 26
     buildToolsVersion "26.0.1"
     defaultConfig {
-        applicationId "com.oy.u920"
+//        applicationId "com.oy.u920"
         minSdkVersion 21
         targetSdkVersion 23
         versionCode 1
