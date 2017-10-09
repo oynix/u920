@@ -49,7 +49,7 @@ class IconLoadTask extends AbstractImageLoadTask {
 				} else {
 					BitmapDrawable drawable3 = (BitmapDrawable) mContext
 							.getResources().getDrawable(
-									R.drawable.apk);
+									R.drawable.ic_android_black_24dp);
 					bitmap = drawable3.getBitmap();
 				}
 
